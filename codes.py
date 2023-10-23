@@ -1,8 +1,3 @@
-# Rosa Siprien
-# COP 2500C
-# Assignment 7: Code Database
-# 03-31-23
-
 
 
 def airport_code_finder(airport, city, method):
