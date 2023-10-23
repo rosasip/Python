@@ -1,10 +1,4 @@
 
-# Rosa Siprien
-# 01-17-23
-# Assignment 1: Flights
-# COP 2500C
-
-
 # Input
 print("Welcome to the flight calculator.\n")
 baseCost= float(input("What is the base flight cost?\n"))
