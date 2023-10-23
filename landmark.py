@@ -1,7 +1,3 @@
-# Rosa Siprien
-# COP 2500
-# Assignment 2: Landmark
-# Jan 23, 2023
 
 import turtle
 turtle.shape("turtle")
