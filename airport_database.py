@@ -1,8 +1,3 @@
-# Rosa Siprien
-# COP 2500C
-# Assignment 8: Airport Database
-# 04-07-23
-
 
 print("Welcome to OIA!\n")
 def menu():# Prints menu options 
