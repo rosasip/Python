@@ -1,10 +1,3 @@
-# Rosa Siprien
-# 03-22-23
-# Assignment 6: Airport Names
-# COP 2500C
-
-
-
 
 def main(): # Input goes here
     airport = input("Name of airport: \n")
