@@ -1,7 +1,4 @@
-# Rosa Siprien
-# Prof. Kyle Dencker
-# 02-07-2023
-# COP 2500c
+
 
 print("Welcome to the travel planner.\n")
 places_visited= int(input("How many places are we visiting today?\n"))
