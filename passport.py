@@ -1,8 +1,3 @@
-#Rosa Siprien
-#COP 2500c
-#03-02-23
-#Assignment 5B: Passport
-
 
 import turtle
 import math
