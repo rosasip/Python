@@ -1,7 +1,3 @@
-# Rosa Siprien
-# COP 2500c
-# Assignment 5A: Travel Stamps
-# Feb 21, 2023
 
 import turtle
 
