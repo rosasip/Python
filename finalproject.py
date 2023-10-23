@@ -1,8 +1,3 @@
-# Rosa Siprien
-# COP 2500C
-# Final Project
-# 04-11-2023
-
 
 
 # This is a program to help professors at 'UCF' calculate attendance percentage.
